@@ -16,3 +16,8 @@ This program is a solver for the snake cube puzzle
 ;;| 0 | /| 1 | /| 2 | /
 ;;|___|/ |___|/ |___|/  
 ```
+
+Run:
+```
+clisp cube.lsp
+```
