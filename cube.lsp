@@ -25,7 +25,7 @@
 ;;
 ;; stores the moves allowed by the puzzle
 ;;
-;; In other words this rules describes the relation ship between
+;; In other words this rules describes the relationship between
 ;; the smaller cubes.
 ;;
 (setf puzzle-rules
@@ -59,8 +59,6 @@
 		(1 h)
 		)
 	  )
-
-(setf previous-move nil)
 
 ;;
 ;; verifies if an element exists in a list
