@@ -238,3 +238,5 @@
 (defun run-resolver (x y z)
   (print (explore-cube x y z 0 nil (list (list x y z))  '()))
   )
+
+(run-resolver 0 0 0)
